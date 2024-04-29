@@ -52,7 +52,7 @@ function Update({name , setName, mail , setMail}) {
                 <div className='container py-3 border rounded'>
                     <div className='text-center'>
                         <p className=''>Upload Resume</p>
-                        <input type='file' className='ms-md-5 ps-5 '/>
+                        <input type='file' className=''/>
                         <div className='text-center'>
                         <button className='btn border mt-3  '>Submit</button>
                         </div>
