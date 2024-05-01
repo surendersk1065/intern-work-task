@@ -34,8 +34,8 @@ function About() {
         <p>WorkinJapan.com has been a key resource for expats working in Japan and those wanting to work in Japan. With constantly updated jobs in all industries, we aim to provide the widest selection of employment opportunities on the face of the internet.Our goal is usefulness for job seekers, and that is why we offer one of the most competitive and low rates for posting a job advertisement in Japan. We want a huge selection of jobs, and not just for the big companies but the little ones too.
         Small to medium sized businesses, large corporations, or tiny schools with five employees – everyone can afford our rates and get qualifiedemployees eyes on their job ad.</p>
       </div>
-      <hr style={{maxWidth:'1000px',margin:'0px auto'}}></hr>
-      <div className='aboutbg my-3 container' data-aos='fade-left'>
+      <hr style={{maxWidth:'1000px',margin:'0px'}}></hr>
+      <div className='aboutbg my-3 container' data-aos='fade'>
 
       </div>
 
